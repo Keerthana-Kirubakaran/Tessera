@@ -1,5 +1,5 @@
-from src.mosaic import create_mosaic
-from src.visualize import visualize_pca
+from visualization.mosaic import create_mosaic
+from visualization.visualize import visualize_pca
 import os
 
 # -------------------------------------------------
